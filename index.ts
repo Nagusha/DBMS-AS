@@ -12,7 +12,7 @@ interface Address{
     pincode : number;
 
 };
-let studentname:Studentname = {
+let Studentname:Studentname = {
     name : "Nagu",
     age : 22,
     email : "nagumadasu70@gmail.com",
