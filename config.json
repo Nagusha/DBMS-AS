@@ -1,0 +1,6 @@
+{
+    "masterDataFilePath": "MasterData.csv",
+    "studentMarksFilePath": "StudentMarks.csv",
+    "reportOutputPath": "report.txt"
+  }
+  
